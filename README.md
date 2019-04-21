@@ -1,7 +1,7 @@
 # Code Along - Mongo DB
 
 
-### Intro
+## Intro
 
 ![img](https://i.imgur.com/NzalR30.png)
 
@@ -10,7 +10,7 @@ When working with any Database, there are a few operations that we will always n
 ![img](https://i.imgur.com/CRowB2i.png)
 
 
-### Getting Started
+## Getting Started
 
 Using `mongoimport`, import the JSON data from the `movies.json` file into the collection `movies` in the `video` database.
 
@@ -29,7 +29,7 @@ db.movies.find()
 ```
 
 
-### Tasks
+## Tasks
 
 
 ### 1. Retrieve all the documents  from the `movies` collection:
