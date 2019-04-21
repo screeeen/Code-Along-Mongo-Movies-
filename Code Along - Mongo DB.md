@@ -1,8 +1,6 @@
 # Code Along - Mongo DB
 
-### Getting Started
-
-Using `mongoimport`, import the JSON data from the `movies.json` file into the collection `movies` in the `video` database.
+`mongoimport` imports the JSON data from the movies.json file into the collection `movies` in the `video` database.
 
 
 ```bash
@@ -20,7 +18,7 @@ db.movies.find()
 ```
 
 
-### Tasks
+
 
 
 ### 1. Retrieve all the documents  from the `movies` collection:
