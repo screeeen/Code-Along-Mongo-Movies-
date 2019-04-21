@@ -1,5 +1,14 @@
 # Code Along - Mongo DB
 
+
+### Intro
+
+
+When working with any Database, there are a few operations that we will always need to use. These operations are so popular that we have an acronym for it: CRUD stands for create, read, update and delete:
+
+
+
+
 ### Getting Started
 
 Using `mongoimport`, import the JSON data from the `movies.json` file into the collection `movies` in the `video` database.
