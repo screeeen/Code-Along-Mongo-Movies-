@@ -3,10 +3,11 @@
 
 ### Intro
 
+![img](https://i.imgur.com/NzalR30.png)
 
 When working with any Database, there are a few operations that we will always need to use. These operations are so popular that we have an acronym for it: CRUD stands for create, read, update and delete:
 
-
+![img](https://i.imgur.com/CRowB2i.png)
 
 
 ### Getting Started
@@ -18,7 +19,6 @@ Using `mongoimport`, import the JSON data from the `movies.json` file into the c
 mongoimport --db video --collection movies --file movies.json --jsonArray
 mongo
 ```
-
 
 
 ```js
